@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cerealfordinner\\code\\repos\\imgBlur\\imgBlur.App\\imgBlur.App.csproj",
+      "projectUniqueName": "C:\\Users\\cerealfordinner\\code\\repos\\imgblur\\imgBlur.App\\imgBlur.App.csproj",
       "projectName": "imgBlur.App",
-      "projectPath": "C:\\Users\\cerealfordinner\\code\\repos\\imgBlur\\imgBlur.App\\imgBlur.App.csproj",
+      "projectPath": "C:\\Users\\cerealfordinner\\code\\repos\\imgblur\\imgBlur.App\\imgBlur.App.csproj",
       "packagesPath": "C:\\Users\\cerealfordinner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cerealfordinner\\code\\repos\\imgBlur\\imgBlur.App\\obj\\",
+      "outputPath": "C:\\Users\\cerealfordinner\\code\\repos\\imgblur\\imgBlur.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
